@@ -1,0 +1,6 @@
+astropy
+astropy-iers-data
+numpy
+packaging
+pyerfa
+PyYAML
